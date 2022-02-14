@@ -1,12 +1,12 @@
 Summary:	UID wrapper library
 Summary(pl.UTF-8):	Biblioteka obudowująca UID
 Name:		uid_wrapper
-Version:	1.2.8
+Version:	1.2.9
 Release:	1
 License:	GPL v3+
 Group:		Libraries
 Source0:	https://www.samba.org/ftp/cwrap/%{name}-%{version}.tar.gz
-# Source0-md5:	b29d0a78145a991fe6531f2be133bec0
+# Source0-md5:	ec56823dbe46788a0a04b152acea94f8
 URL:		https://cwrap.org/uid_wrapper.html
 BuildRequires:	cmake >= 3.5.0
 BuildRequires:	rpmbuild(macros) >= 1.605
